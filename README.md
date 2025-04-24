@@ -66,6 +66,25 @@ Apresente uma breve descrição do seu robô e sua aplicação (tarefa que ele i
 
 ## Análise de concorrência
 
+- Pesquise robôs existentes atualmente que possam fazer a tarefa deste projeto.
+- Selecione pelo menos 3 robôs diferentes que podem fazer essa tarefa.
+- Em relação aos concorrentes, respondam as seguintes perguntas?
+  - Existe plataforma similar que atende o mesmo mercado e funcionalidades? Se sim: Quais os pontos positivos? Quais os pontos negativos?
+  - Existe plataforma diferente quanto ao serviço, mas que atenda esse mercado? Se sim: Quais os pontos positivos? Quais os pontos negativos?
+  - Quais plataformas sua equipe acha mais interessantes? Qual a justificativa?
+
+## Design
+
+- Pense nas características de Affordances do seu robô. Que tipo de acessibilidades devem ser consideradas dentro do seu projeto?
+- Discuta o papel das expectativas do usuário no projeto de um robô. Qual a importância e pontos a serem considerados se você quiser vender esse robô  seu robô?
+- O seu robô tem um padrão com mais ou menos características antropomórficas? Qual padrão é mais aceito pela sociedade dentro do projeto que você está desenvolvendo?
+- Quais o design mais apropriado para o robô deste projeto? Modele o seu robô com desenhos de formas primitivas (caixas, cilindros, esferas)
+
+<!-- ![Partes do robô](partes_do_robo.png) -->
+<!-- ![Robô](robo.png) -->
+<img src="partes_do_robo.png" height="200"/>
+<img src="robo.png" height="200"/>
+
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
 
 <!-- TODOs:
