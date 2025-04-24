@@ -59,10 +59,6 @@ Apresente uma breve descrição do seu robô e sua aplicação (tarefa que ele i
   - Descreva o que acontece ou pode acontecer passo a passo
   - Como a tarefa começa? Como a tarefa evolui? Como a tarefa termina?
 - Enfatize todos os momentos em que acontece uma interação verbal, não-verbal e espacial.
-  - Quais os pre-requisitos para que a intereção aconteça.
-  - Descreva a interação.
-  - O que se espera que seja modificado no ambiente quando a interação é finalizada?
-  - O que se espera de resposta emocional do usúario quando a interação é finalizada?
 
 ## Análise de concorrência
 
