@@ -82,8 +82,38 @@ Apresente uma breve descrição do seu robô e sua aplicação (tarefa que ele i
 
 <!-- ![Partes do robô](partes_do_robo.png) -->
 <!-- ![Robô](robo.png) -->
-<img src="partes_do_robo.png" height="200"/>
-<img src="robo.png" height="200"/>
+<img alt="Partes do robô" src="partes_do_robo.png" height="200"/>
+<img alt="Robô" src="robo.png" height="200"/>
+
+## Ações do robô
+
+- Para cada ação:
+  - Descreva a ação.
+  - Determine os pré-requisitos para que a ação aconteça
+  - Determine o que se espera que seja modificado no ambiente quando a ação é finalizada
+
+## Interações do robô
+
+### Espacial
+
+- Para cada interação:
+  - Descreva a interação.
+  - Determine os pré-requisitos para que a interação aconteça
+  - Determine espera de resposta emocional do usúario quando a interação é finalizada
+
+### Verbal
+
+- Para cada interação:
+  - Descreva a interação.
+  - Determine os pré-requisitos para que a interação aconteça
+  - Determine espera de resposta emocional do usúario quando a interação é finalizada
+
+### Não-verbal
+
+- Para cada interação:
+  - Descreva a interação.
+  - Determine os pré-requisitos para que a interação aconteça
+  - Determine espera de resposta emocional do usúario quando a interação é finalizada
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
 
