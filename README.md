@@ -230,14 +230,15 @@ O Rumo fica próximo do polo **minimalista** do espectro, com leve antropomorfis
 > 💡
 > Modele o seu robô com desenhos de formas primitivas (caixas, cilindros, esferas): forma, tamanho, rosto/olhos, partes móveis, tela. É o protótipo mais barato e rápido — lembre-se do lema "**teste cedo, teste sempre**".
 >
-> As imagens abaixo são só um **exemplo** de referência — substitua-as pelo desenho do robô da sua equipe.
 
 <details>
-<summary>📄 (descrição do esboço)</summary>
+<summary>📄</summary>
 
- Inspirado no mascote da FEI (Frangão Sabóia); corpo afunilado sobre uma base omnidirecional (três rodas onidirecionais, em arranjo triangular); "cabeça" arredondada com dois olhos, uma antena/sensor no topo; tela na parte de cima do torso, com o nome do robô; com paleta de cores baseada no mascote; sem braços — apenas um anel de luz na base para sinalizar status. Altura total ≈1,55 m; diâmetro da base ≈0,90 m.
+ Corpo afunilado sobre uma base omnidirecional (três rodas onidirecionais, em arranjo triangular); "cabeça" arredondada com dois olhos, uma antena/sensor no topo; tela na parte de cima do torso, com o nome do robô; sem braços — apenas um anel de luz na base para sinalizar status. Altura total ≈1,55 m; diâmetro da base ≈0,90 m.
 
-<img alt="Esboço do robô Rumo inspirada na mascote da FEI (Frangão Sabóia): altura total aproximada de 1,55 m e diâmetro da base de 0,90 m; cabeça arredondada com olhos e antena, corpo afunilado com tela de boas-vindas próxima ao topo, com paleta de cores baseada no mascote, base omnidirecional com três rodas e anel de luz, legenda 'FEI Portas Abertas'" src="rumo_esboco.png" height="380"/>
+<img alt="Esboço do robô Rumo - V1'" src="rumo_esboco_v1.png" height="380"/>
+<img alt="Esboço do robô Rumo - V2'" src="rumo_esboco_v2.png" height="380"/>
+<img alt="Esboço do robô Rumo - V3'" src="rumo_esboco_v3.png" height="380"/>
 
 </details>
 
