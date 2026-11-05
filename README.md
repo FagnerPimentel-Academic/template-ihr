@@ -4,87 +4,46 @@
 > - **📄 (Exemplo)** — um exemplo preenchido, de um robô fictício ("Rumo", robô guia da FEI para o FEI Portas Abertas), só para ilustrar o **nível de detalhe e o formato** esperados.
 
 
-# **<Nome do Robô>:** <Aplicação do robô>
+# ZenBot:Robô instrutor de yoga
 
 Trabalho de Interação Humano-Robô (IHR) apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Interação Humano-Robô (IHR) (CCR230) do curso de Engenharia de Robôs, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](https://github.com/fagnerpimentel).
 
 ## Componentes do Grupo
 
-> 💡 Adicione os nomes e RAs dos integrantes
-> - Nome - RA
-> - Nome - RA
-> - Nome - RA
+> Sofia Linheira Romeiro 11.120.371-7
+> Matheus Marcondes Pereira Rufino 11.122.028-1
+> Dereck Nasser Garcia Santos 11.122.427-5
+> Gabriel Ueno Vertamatti 11.122.159-4
 
 ## Resumo
-
-> 💡
-> Apresente uma breve descrição do seu robô e sua aplicação (tarefa que ele irá resolver).
-
-<details>
-<summary>📄</summary>
-
-O Rumo é um robô recepcionista para o FEI Portas Abertas. Ele acolhe os visitantes no saguão de entrada, apresenta rapidamente os cursos oferecidos e guia grupos até o laboratório de interesse, reduzindo a fila de espera por monitores humanos nos horários de pico.
-
-</details>
+O Zenbot é um robô instrutor de Yoga projetado para guiar e realizar a clássica Saudação ao Sol junto à turma. Com uma estrutura mecânica adaptada para executar as posturas com precisão, ele utiliza uma câmera integrada para analisar os movimentos dos alunos em tempo real, verificando o alinhamento de cada um. Além disso, o Zenbot conta com alto-falantes e microfones para reproduzir músicas serenas, criando um ambiente acolhedor enquanto se comunica com a classe para orientar correções ou validar a execução correta dos exercícios.
 
 ## Introdução
 
-> 💡
-> - Apresente uma contextualização para o problema que o seu robô irá resolver e por quê esse tipo de robô é necessário hoje na sociedade.
-> - Apresente uma breve descrição do seu robô e sua aplicação (tarefa que ele irá resolver).
-> - Em uma única frase, resuma o objetivo do seu robô.
-> - Que tipo de experiência o robô deve proporcionar para os usuários?
+Na sociedade contemporânea, o ritmo de vida acelerado, a hiperconectividade e as pressões cotidianas têm gerado níveis alarmantes de estresse, ansiedade e sedentarismo na população. Encontrar momentos para desacelerar tornou-se um desafio essencial para a saúde mental e física. Nesse cenário, o desenvolvimento de tecnologias voltadas ao bem-estar é fundamental. Um robô instrutor de Yoga surge como uma solução inovadora e acessível para democratizar práticas de relaxamento e atividade física, atuando como um facilitador de hábitos saudáveis em ambientes corporativos, estúdios ou centros de convivência, onde a disponibilidade de instrutores humanos pode ser limitada.
 
-<details>
-<summary>📄</summary>
-
-Todo ano a FEI recebe centenas de visitantes no FEI Portas Abertas, mas há poucos monitores voluntários disponíveis nos horários de pico — visitantes ficam perdidos no saguão ou esperando muito tempo por orientação. O Rumo é um robô móvel com tela e um braço apontador que recebe visitantes na portaria, apresenta um menu de destinos (curso, laboratório, auditório) e os guia até lá, verificando se o grupo continua acompanhando.
-
-**Objetivo em uma frase:** ajudar visitantes do FEI Portas Abertas a encontrar, sem depender de um monitor humano, o curso e o laboratório que querem conhecer.
-
-**Experiência desejada:** acolhedora, confiável e levemente lúdica — sem intimidar quem nunca interagiu com um robô antes.
-
-</details>
-
+**Experiência desejada: acolhedora, leve e tranquila — para transmitir paz a quem nunca interagiu com um robô antes.
 ## Público-Alvo e Stakeholders
 
-> 💡
-> Determine o seu público alvo.
+> Casas de cuidados de idosos, donos de academia, spas de bem estar e wellness
 
 ### Stakeholders
 
-> 💡
-> Identifique os **stakeholders** do projeto — todos os envolvidos e afetados pelo robô, mesmo sem interagir diretamente com ele:
-> - **Primários** — usam o robô diretamente.
-> - **Secundários** — têm contato intermitente com o robô ou interagem com ele por meio de um intermediário.
-> - **Terciários** — são afetados pelo robô (positiva ou negativamente) sem necessariamente interagir com ele.
-
-<details>
-<summary>📄</summary>
-
-- **Primários** — visitantes (futuros alunos e famílias) que pedem informações e são guiados pelo robô.
-- **Secundários** — recepcionistas e seguranças da portaria, que cruzam com o robô no saguão e ocasionalmente o auxiliam.
-- **Terciários** — coordenadores de curso, cujo número de inscrições pode ser afetado pela impressão (boa ou ruim) que o robô causa nos visitantes.
-
-</details>
+- **Primários** — Funcionário do estabelecimento, que ira programar o inicio da aula .
+- **Secundários** — Alunos de yoga, que observam os movimentos e fazer a saudação junto ao robo.
+- **Terciários** — Dono dos estabelecimentos em que o robô da aula, cujo número de inscrições pode ser afetado pela impressão (boa ou ruim) que o robô causa nos visitantes.
 
 ### Personas
 
 > 💡
 > - Descreva as personas que irão interagir com o robô. Deixe claro suas principais características e contextos sociais, econômicos e culturais.
 > - Quais informações sobre o usuário o robô deve saber antes de iniciar a tarefa?
+>
 
-- Persona primária ...
-- Persona secundária ...
-- Outras personas ...
+- Persona primária - Ruan Soares Del Lima, 25 anos: Gerente da casa de repouso, chega cedo no trabalho por volta das 7:00 para escolher qual aula será feita no dia para cada turma.
+- Persona secundária - Dona Vera Lucia, 67 anos: Paciente de uma casa de repouso, que acorda cedo as 8:00 para se encontrar com suas colegas da casa para ter uma aula de yoga relaxante depois do café da manhã.
+- Outras personas - Leonardo Pinto da Silva, 40 anos: Dono da casa de repouso, não necessariamente atua no estabelecimento, mas é responsável pela compra de equipamentos para o lugar, ele se sente animado pela interação que as pessoas iram ter com o robô. 
 
-<details>
-<summary>📄</summary>
-
-- **Persona primária — Ana, 17 anos:** aluna do 3º ano do ensino médio, indecisa entre Engenharia de Robôs e Ciência da Computação, visita a FEI pela primeira vez acompanhada da mãe. Não sabe onde fica nenhum laboratório.
-- **Persona secundária — Sr. Carlos, 50 anos:** pai de Ana, mais cético em relação a tecnologia, preocupado com o custo do curso e a empregabilidade; tende a fazer perguntas objetivas e desconfia de recomendações "automáticas".
-
-</details>
 
 ### Mapa de empatia
 
